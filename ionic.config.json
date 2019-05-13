@@ -1,6 +1,8 @@
 {
   "name": "test2-geo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "07fb2f1a"
 }
